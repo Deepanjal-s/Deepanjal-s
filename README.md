@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Deepanjal Shukla 👋
 
-<!--
-**Deepanjal-s/Deepanjal-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at NIT Sikkim
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning:
+- Data Structures & Algorithms
+- React
+- Node.js
+- MERN Stack
+
+📌 Featured Projects:
+- Tenzies Game
+- Assembly Endgame
+- Street Vendor Web App
+
+🔗 LinkedIn: https://www.linkedin.com/in/deepanjal-shukla/
+🔗 Portfolio: Coming Soon
