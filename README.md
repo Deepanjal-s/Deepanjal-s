@@ -16,4 +16,4 @@
 - Street Vendor Web App
 
 🔗 LinkedIn: https://www.linkedin.com/in/deepanjal-shukla/
-🔗 Portfolio: Coming Soon
+🔗 Portfolio:(https://portfolio-alpha-nine-0b6a1mvm9h.vercel.app/)
